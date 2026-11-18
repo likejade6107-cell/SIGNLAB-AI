@@ -1,0 +1,18 @@
+{
+  "classification_metrics": {
+    "top1_accuracy_percent": 85.27,
+    "top5_accuracy_percent": 95.59,
+    "macro_precision_percent": 84.95,
+    "macro_recall_percent": 84.39,
+    "macro_f1_percent": 83.99
+  },
+  "scoring_embedding_metrics": {
+    "intra_class_cosine_sim_mean": 0.8101,
+    "intra_class_cosine_sim_std": 0.1715,
+    "inter_class_cosine_sim_mean": 0.2958,
+    "inter_class_cosine_sim_std": 0.0849,
+    "roc_auc": 0.9836,
+    "equal_error_rate_eer": 0.0519,
+    "optimal_similarity_threshold": 0.4372
+  }
+}
